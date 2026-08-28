@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: rgb(30, 143, 7);
+    color: aquamarine;
+}
+
+img {
+    height: 200px;
+    width: 400px;
+}
